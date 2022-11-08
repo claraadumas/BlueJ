@@ -8,7 +8,7 @@
  * @author  Michael Kolling and David J. Barnes
  * @version 2006.03.30
  */
-
+// je suis buzz l'éclaire !!!!!!
 public class CommandWords
 {
     // a constant array that holds all valid command words
